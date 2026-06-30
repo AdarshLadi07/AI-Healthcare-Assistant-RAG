@@ -85,7 +85,7 @@ git clone https://github.com/AdarshLadi07/AI-Healthcare-Assistant-v2.git
 ### Move into the Project
 
 ```bash
-cd AI-Healthcare-Assistant-v2
+cd AI-Healthcare-Assistant-RAG
 ```
 
 ### Create Virtual Environment
